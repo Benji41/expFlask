@@ -14,7 +14,7 @@ def user(name):
     #Permite formataear la cadena en cierto lugar como el lenguaje C.
     return '<h1>Hello, %s!, %s</h1>' % (name, user_agent)
 
-
+print(app.url_map)
 
 
 
